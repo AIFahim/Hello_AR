@@ -1,16 +1,11 @@
 # Hello AR
 
-<hr>
-
-## This is fun app . Using this app user can set augmented fox whatever user want. 
-
-<hr>
-
 ![Author](https://img.shields.io/badge/author-AIFahim-orange)
 [![License Badge](https://img.shields.io/badge/license-GPL%203.0-blue)](https://github.com/AIFahim/Hello_AR/blob/master/LICENSE)
 
+<hr>
 
-
+## This is fun app . Using this app user can set augmented fox whatever user want. 
 
 <hr>
 
